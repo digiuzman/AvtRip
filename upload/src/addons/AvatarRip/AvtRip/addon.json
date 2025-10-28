@@ -1,0 +1,16 @@
+{
+  "legacy_addon_id": "",
+  "title": "HS - Avatar History",
+  "description": "Keep and restore previous user avatars. Snapshots before update, restore/delete UI hooks.",
+  "version_id": 101000,
+  "version_string": "1.1.0",
+  "dev": "HayvanSahipleri",
+  "dev_url": "https://hayvansahipleri.com",
+  "require": {
+    "XF": [2030700, "XenForo 2.3.7+"]
+  },
+  "id": "HS/AvatarHistory",
+  "namespace": "HS\\AvatarHistory",
+  "icon": "fa-history"
+}
+
